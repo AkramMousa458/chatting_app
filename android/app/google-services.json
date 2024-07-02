@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "152875122202",
+    "project_id": "chating-a9e39",
+    "storage_bucket": "chating-a9e39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152875122202:android:25434c44e7e075b64fdba3",
+        "android_client_info": {
+          "package_name": "com.example.akram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl31IDO_MpO-fvgYqNHqolWvtEEnlDFKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152875122202:android:7c31c95f16afad994fdba3",
+        "android_client_info": {
+          "package_name": "com.example.wafed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl31IDO_MpO-fvgYqNHqolWvtEEnlDFKs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
